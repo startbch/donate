@@ -1,0 +1,2 @@
+# donate
+StartBCH Funding Support
