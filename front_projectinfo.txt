@@ -1,11 +1,5 @@
-<h2>Project Headline Info </h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+<h2>What is StartBCH.com?</h2>
+StartBCH.com is an educational resource that was created after learning that many people were asking how to get started with Bitcoin Cash who felt overwhelmed by too much information and conflicting information. The idea of the website was to load very fast even on old computers and slow networks. Another goal of the project was not to overwhelm someone new to cryptocurrencies with information-overload. The idea is to teach someone how to set up a very basic wallet (temporary web wallet) and learn the very basics no matter where they are in the world and to understand the viewpoint of someone very new to cryptocurrencies. From there they can research further and get more in-depth information and learn more about secure wallets and other more complicated aspects of Bitcoin Cash.
 
-<h3>Project Subheader</h3>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3>Make a donation to support StartBCH.com today!</h3>
+We are now amplified by the AKARI Media Platform (AMP) which is a part of the AKARI GLOBAL FOUNDATION, a foundation to help educate and inform individuals on how to leverage Bitcoin Cash for their individual benefit. We still need and appreciate any donations that you would consider providing, so if you found StartBCH.com helpful please consider donating today using the donation button on this page or <a href="http://startbch.github.io/donate/addr=qzs684qk580zpzfra0jzdvzyln4uahdzd5f9x3gw6a.html">proceed to donate here</a>. Thank you!
